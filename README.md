@@ -1,2 +1,2 @@
 # ML-Classification-with-SKLearn
-This repository contains notebooks an
+This repository contains notebooks and files
